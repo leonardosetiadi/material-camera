@@ -23,6 +23,7 @@
         android:paddingLeft="@dimen/mcam_content_inset"
         android:paddingRight="@dimen/mcam_content_inset"
         android:paddingTop="@dimen/mcam_content_inset_less"
+        android:visibility="gone"
         tools:ignore="UnusedAttribute">
 
         <ImageButton
